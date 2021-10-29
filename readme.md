@@ -1,21 +1,20 @@
-# AD Overlay - Slider banner para OBS
+# AD Overlay - Slider banner for OBS
 
 #### [Exemplo/Demo](https://juliorosseti.github.io/ad-overlay/)
 
-Salve salve guys! Estou deixando open-source esse código que criei e uso nas streams para que outras pessoas também possam aproveitar o mesmo.
+Hey guys! I'm leaving open-source this code that I created and use in streams so that other people can also enjoy it.
 
-A necessidade do mesmo surgiu da idéia de colocar banners rotativos na tela durante as minhas transmissões da stream na twitch, como não tenho muito conhecimento na área de edição de vídeos, resolvi criar algo com Javascript, que é a área onde eu me sinto mais confortável para resolver problemas.
+The need of the same arose from the idea of putting rotating banners on the screen during my stream broadcasts on twitch, as I do not have much knowledge in the area of video editing, I decided to create something with Javascript, which is the area where I feel most comfortable to solve problems.
 
-Bom, fiz algo bem simples em `Vue.Js` (sem ter a necessidade de compilação) para que pessoas que não são da área de programação, também possam usá-lo.
+Well, I did something very simple in 'Vue.Js' (without having the need to build) so that people who are not in the programming area, can also use it.
 
-#### Como utilizar/customizar:
+#### How to use/customize:
+- Download the project (via clone or zip)
+- Change the data in the file './js/banners.js'
+- Create a source in the "Browser" OBS
+- Include the file './index.html' in the source created
+! [image] (https://user-images.githubusercontent.com/17995646/123529737-acc08200-d6c9-11eb-87a4-7e00c48eb5fe.png)
 
-- Baixar o projeto (via clone ou zip)
-- Alterar os dados no arquivo `./js/banners.js`
-- Criar um source no OBS de "Navegador"
-  - Incluir o arquivo `./index.html` no source criado
-![image](https://user-images.githubusercontent.com/17995646/123529737-acc08200-d6c9-11eb-87a4-7e00c48eb5fe.png)
+Anyway, if this was useful to you, give a force there on our [twitch channel](https://twitch.tv/nipw) and give a favorite in this mini project 😊✌
 
-Enfim, caso isso tenha sido útil pra você, da uma força lá no nosso [canal da twitch](https://twitch.tv/nipw) e dá uma favoritada nesse mini-projeto 😊✌
-
-Abração!
+Cheers!
