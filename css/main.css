@@ -7,13 +7,13 @@ body {
 }
 
 .banner {
-    height: 10rem;
-    width: 35rem;
+    height: 3rem; 
+    width: 25rem;
     border-radius: 10px;
     display: flex;
     align-items: center;
     padding: 4px 0px;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 
     -webkit-transition: background 500ms ease-in-out;
     -ms-transition: background 500ms ease-in-out;
@@ -26,8 +26,8 @@ body {
     justify-content: center;
     align-items: center;
     height: 76%;
-    width: 10rem;
-    margin: 0px 20px;
+    width: 5rem;
+    margin: 5px 5px;
 }
 
 .banner .logo img {
@@ -37,8 +37,8 @@ body {
 
 .banner .separator {
     height: 80%;
-    width: 0.3rem;
-    background: rgba(255, 255, 255, 0.3);
+    width: 0.1rem;
+    background: rgb(95, 95, 95);
 }
 
 .banner .texts {
@@ -47,9 +47,9 @@ body {
     justify-content: center;
     text-align: center;
     height: 4rem;
-    margin: 0px 4px;
+    margin: 10px 10px;
     width: 60%;
-    color: white;
-    font-size: 34px;
+    color: rgb(131, 131, 131);
+    font-size: 15px;
     /* text-shadow: 0px 0px 2px #000; */
 }
