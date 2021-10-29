@@ -48,7 +48,7 @@ const banners = [
     },
     {
         name: "Tiktok",
-        img: "./img/tiktok-icon.svg",
+        img: "./img/tiktok-white-icon.svg",
         background: "background: rgb(66, 66, 66)",
         colorText: "rgb(202, 202, 202)",
         dynamicText: [
