@@ -1,6 +1,6 @@
 # AD Overlay - Slider banner for OBS
 
-#### [Example/Demo](https://juliorosseti.github.io/ad-overlay/)
+#### [Example/Demo](https://spesvictus.github.io/ad-overlay/)
 
 Hey guys! I'm leaving open-source this code that I created and use in streams so that other people can also enjoy it.
 
@@ -14,6 +14,8 @@ Well, I did something very simple in 'Vue.Js' (without having the need to build)
 - Create a source in the "Browser" OBS
 - Include the file './index.html' in the source created
 ! [image] (https://user-images.githubusercontent.com/17995646/123529737-acc08200-d6c9-11eb-87a4-7e00c48eb5fe.png)
+
+Full Credit goes to @juliorosseti for the original creation of this banner slider for OBS Studio.
 
 Anyway, if this was useful to you, give a force there on our [twitch channel](https://twitch.tv/nipw) and give a favorite in this mini project 😊✌
 
