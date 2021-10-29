@@ -7,7 +7,6 @@ Basic HTML code know-how:
 <font-size> - font size
 <line-height> - line height
 
-
 google HTML color picker for RGB codes. 
 
 Make sure there is a closing tag for each opening tag. ie, </ strong> except for <br>
@@ -17,51 +16,44 @@ use W3C School website for help if you need assistance.
 
 const banners = [
     {
-        name: "Vivo Easy",
-        img: "./img/vivo-easy.png",
-        background: "background: rgb(200, 200, 200)",
-        colorText: "#000",
+        name: "Youtube",
+        img: "./img/yt-icon.svg",
+        background: "background: rgb(66, 66, 66)",
+        colorText: "rgb(202, 202, 202)",
         dynamicText: [
-            `Use o cupom<br><strong>N1PW</strong>`, // Put html code between backticks and separated with , (comma). Each group is a slide for this image
-            `<span style="display: block; font-size: 15px; line-height: 15px">
-                GANHE <strong>35 R$</strong> <br>PARA USAR COM <br>CRÉDITOS OU INTERNET
-            </span>
-            `
+            `Subscribe to my Youtube channel,`, 
+            `And <strong> never </strong> miss a VOD.`
         ]
     },
     {
-        name: "PicPay",
-        img: "./img/picpay.svg",
-        background: "background: rgb(200, 200, 200)",
-        colorText: "#000",
+        name: "Twitter",
+        img: "./img/twitter-icon.svg",
+        background: "background: rgb(66, 66, 66)",
+        colorText: "rgb(202, 202, 202)",
         dynamicText: [
-            `Use o cupom<br><strong>DGNYZX</strong>`, // Put html code between backticks and separated with , (comma). Each group is a slide for this image
-            `<span style=" font-size: 15px; line-height: 15px">
-            Faça sua conta <br> e ganhe <strong>10 R$ de bônus</strong>
-            </span>
-            `
+            `Follow me on Twitter @username,`,
+            `Get notified with I go live.`,
+
         ]
     },
     {
-        name: "Roxx Energy",
-        img: "./img/roxx.png",
-        background: "background: rgb(200, 200, 200)",
-        colorText: "#000",
+        name: "Instgram",
+        img: "./img/ig-icon.svg",
+        background: "background: rgb(66, 66, 66)",
+        colorText: "rgb(202, 202, 202)",
         dynamicText: [
-            `Use o cupom<br><strong>nipw-10</strong>`, // Put html code between backticks and separated with , (comma). Each group is a slide for this image
-            `<span style="font-size: 15px; line-height: 15px">
-                Ganhe <strong>10%</strong> de desconto em todo o site
-            </span>
-            `
+            `Checkout my instagram @username,`, 
+            `For game screenshots, video #shorts, and much more. `
         ]
     },
     {
-        name: "WhatsApp",
-        img: "./img/whatsapp.jpg",
-        background: "background: rgb(200, 200, 200)",
-        colorText: "#000",
+        name: "Tiktok",
+        img: "./img/tiktok-icon.svg",
+        background: "background: rgb(66, 66, 66)",
+        colorText: "rgb(202, 202, 202)",
         dynamicText: [
-            `Faça parte do nosso grupo no Whats`, // Put html code between backticks and separated with , (comma). Each group is a slide for this image
+            `Follow me on tiktok @username,`, 
+            `For cool video #shorts of the stream.`
         ]
     },
 ];
