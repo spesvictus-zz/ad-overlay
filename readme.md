@@ -1,6 +1,6 @@
 # AD Overlay - Slider banner for OBS
 
-#### [Exemplo/Demo](https://juliorosseti.github.io/ad-overlay/)
+#### [Example/Demo](https://juliorosseti.github.io/ad-overlay/)
 
 Hey guys! I'm leaving open-source this code that I created and use in streams so that other people can also enjoy it.
 
