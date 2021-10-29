@@ -32,7 +32,7 @@ const banners = [
         colorText: "rgb(202, 202, 202)",
         dynamicText: [
             `Follow me on Twitter @username,`,
-            `Get notified with I go live.`,
+            `And get notified with I go live.`,
 
         ]
     },
